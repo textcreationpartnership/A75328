@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the late engagement at sea, on the coast of Spain, between two of Their Majesties' fifth rate frigates with two French men of war and a privateer as also several rich merchant-men, the stranding one [sic] of the French men of war, and taking three other ships richly laden with great numbers of prisoners : in a letter from a merchant at Falmouth to his frind [sic] in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75328</idno>
+            <idno type="STC">Wing A309aA</idno>
+            <idno type="STC">ESTC R209863</idno>
+            <idno type="EEBO-CITATION">43077441</idno>
+            <idno type="OCLC">ocm 43077441</idno>
+            <idno type="VID">151500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151500)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2261:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the late engagement at sea, on the coast of Spain, between two of Their Majesties' fifth rate frigates with two French men of war and a privateer as also several rich merchant-men, the stranding one [sic] of the French men of war, and taking three other ships richly laden with great numbers of prisoners : in a letter from a merchant at Falmouth to his frind [sic] in London.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Weekly in the Minories, near Tower Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed August 28, 1691."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Naval operations.</term>
+               <term>Europe --  History --  1648-1715.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151500:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of the Late Engagement at Sea, ON THE Coaſt of Spain, BETWEEN Two of Their Majeſties Fifth Rate Frigates, WITH Two <hi>French</hi> Men of War and a Privateer, AS ALSO Several Rich Merchant-Men; the Strand<g ref="char:EOLhyphen"/>ing one of the <hi>French</hi> Men of War, and taking Three other Ships Richly Laden; with great Numbers of Priſoners.</head>
+            <head type="sub">
+               <hi>In a Letter from a Merchant at</hi> Falmouth <hi>to his Frind in</hi> London.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed Auguſt 28. 1691.</p>
+               </body>
+            </floatingText>
+            <p>ON <hi>Thurſday</hi> laſt, Arrived here two Dutch-Men of War from <hi>Tor<g ref="char:EOLhyphen"/>bay,</hi> being ſent from our Fleet by Admiral <hi>Ruſſel,</hi> with Or<g ref="char:EOLhyphen"/>ders to Cruiſe between the <hi>Dead-Man</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſhant,</hi> but they at preſent remain here for a Wind.</p>
+            <p>This day Arrived here the Spaniſh <hi>Alliance,</hi> in 7 days from <hi>Corronna,</hi> ſhe carries 26 Guns, and is very well Man'd; in her way outward, ſhe met on the 6 Inſtant with a French Man of War of 23 Guns, who had with her as Prize, an Engliſh Ship of 300 Tuns, bound home from <hi>Boſton</hi> in <hi>New-England,</hi> very Richly Laden, and which ſhe had taken ſome days before; when the French-Man of War and <hi>Alliance</hi> came up with each other, the former (after a few Shot) not liking the Game, ſoon quitted the Engagement, making all the Sail ſhe could away, by which our Frigate ſoon Retook, and poſſeſſed themſelves of the <hi>New-England</hi> Man, and in her a great many French Seamen Priſoners.</p>
+            <pb n="2" facs="tcp:151500:2"/>
+            <p>On the 14th, They came up with a French <hi>Snow,</hi> a ſort of Privateer ſo called of 18 Guns and as many Parteratoes, who being extraordinary well Man'd, held a Bruſh with the <hi>Alliance,</hi> between 5 and 6 hours, but having her Main-Maſt brought by the Board, and moſt of her Rigging miſerably Shattered and Torn, ſhe had recourſe to her Oars, of which ſhe had 36, by the help of which ſhe got clear, but as they hear, was a te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>wards Stranded.</p>
+            <p>On the 10th Inſtant Arrived at <hi>Corronna</hi> the Spaniſh <hi>Expedition,</hi> ſhe brought in with her a Dutch <hi>Fly-Boat</hi> of 250 Tuns, very Richly Laden, and a French Ship of 80 Tuns, both which ſhe took from a French Privateer of 20 Guns; after conſiderable reſiſtance.</p>
+            <p>On the 17th Inſtant, The Spaniſh <hi>Alliance</hi> came out of <hi>Corronna,</hi> in Company of a Dutch Privateer of 26 Guns, and they both made a mutual agreement, that whatever Prizes ſhould be taken by them in their Voy<g ref="char:EOLhyphen"/>age to <hi>England,</hi> they ſhould be equal ſharers. In their Voyage they gave Chaſe to a French-Man of War of 30. Guns, but could not come any nearer to her, then juſt reach her with there Chaſe Guns; ſoon after they came no with a French Merchant-Man of 16 Guns, and 300 Tuns, Bound from <hi>Martinego,</hi> and very Rich, which they took, after a very ſmall Reſiſtance, and ſent her <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Fluſhing</hi> in <hi>Zealand.</hi> This Ship came out in Company of 21 Sail more, under the Convoy of 3 Men of War, the Admiral of which, as they Declared, carried 60 Guns.</p>
+            <p>Here are lately come in, about 15 Sail of Stragling Ships from <hi>Virgi<g ref="char:EOLhyphen"/>nia, Antega, Martinego,</hi> &amp;c. The former came from <hi>Virginia</hi> on the 20th of <hi>June.</hi>
+            </p>
+            <p>Captain <hi>Daniel</hi> Commander of one of theſe <hi>Martinego</hi>-Men, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Vo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age about 80 Leagues <hi>Weſt</hi> of the <hi>Weſtern-Iſlands,</hi> had the boldneſs to give Chaſe to a French Veſſel of 100 Tuns and 10 Guns; and after a ſharp Diſpute took, notwithſtanding the Ship ſeemed to be of a better Force than his, but he is a bold daring Man.</p>
+            <p>Theſe Succeſſes has ſo Fluſhed our <hi>Packet-Boats,</hi> that they are Reſolved nothing ſhall miſs them that they are any ways capable of Mannaging; and that they are reſolved every Man to Periſh, rather then ſuffer there Ships to be taken. This is all that offers at preſent, either for News or Trade, from your Obliged Friend and Servant, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Weekly,</hi> in the <hi>Minories,</hi> near <hi>Tower-Hill,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
